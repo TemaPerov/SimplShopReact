@@ -1,0 +1,16 @@
+
+
+.box {
+    min-height: 100vh;
+    background: gold;
+    box-shadow: 0 -200px 100px -120px crimson inset;
+    animation: background 3s infinite alternate;
+  }
+  
+  @keyframes background {
+    100% {
+      background: skyblue;
+      box-shadow: 0 -200px 100px -100px yellowgreen inset;
+    }
+  }
+  
