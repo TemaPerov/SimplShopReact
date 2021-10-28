@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SimplShopReact/static/css/main.f9df2480.chunk.css",
+    "main.js": "/SimplShopReact/static/js/main.a79aede0.chunk.js",
+    "main.js.map": "/SimplShopReact/static/js/main.a79aede0.chunk.js.map",
+    "runtime-main.js": "/SimplShopReact/static/js/runtime-main.45506543.js",
+    "runtime-main.js.map": "/SimplShopReact/static/js/runtime-main.45506543.js.map",
+    "static/js/2.c104d061.chunk.js": "/SimplShopReact/static/js/2.c104d061.chunk.js",
+    "static/js/2.c104d061.chunk.js.map": "/SimplShopReact/static/js/2.c104d061.chunk.js.map",
+    "index.html": "/SimplShopReact/index.html",
+    "static/css/main.f9df2480.chunk.css.map": "/SimplShopReact/static/css/main.f9df2480.chunk.css.map",
+    "static/js/2.c104d061.chunk.js.LICENSE.txt": "/SimplShopReact/static/js/2.c104d061.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45506543.js",
+    "static/js/2.c104d061.chunk.js",
+    "static/css/main.f9df2480.chunk.css",
+    "static/js/main.a79aede0.chunk.js"
+  ]
+}
